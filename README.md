@@ -1,6 +1,7 @@
 This Node.js module maps Myo armband detections in movement to AR.Drone flight commands.
 
 This program, requires client for controlling Parrot AR Drone 2.0, which can be downloaded here (https://github.com/felixge/node-ar-drone) and framework for Thalmic Labs Myo armband, which can be downloaded here (https://github.com/logotype/MyoJS).
+May also need module for "keypress" events, found here (https://github.com/TooTallNate/keypress).
 
 To run, just set up the Myo armband and calibrate it for your profile, then run armband.js.
 
