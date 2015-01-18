@@ -7,13 +7,13 @@ To run, just set up the Myo armband and calibrate it for your profile, then run 
 
 <h2>Keys:</h2>
 <p>ctrl + 'c' : exits the program</p>
-<p>'l' : lands the drone</p>
+<p>'l' : lands the drone and locks armband</p>
 <p>'d' : disables emergency</p>
 
 <h2>Gestures:</h2>
 <p>Double Tap (if locked) : unlock</p>
 <p>Fist : takeoff</p>
-<p>Double Tap (if drone is flying) : land</p>
+<p>Double Tap (if drone is flying) : land and lock</p>
 <p>Fingers Spread : reset zero position</p>
 
 <h2>Movements:</h2>
