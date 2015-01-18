@@ -1,5 +1,5 @@
 var arDrone = require('ar-drone');
-var index = require("myojs/src/index");
+var index = require('myojs');
 var keypress = require('keypress');
 
 var client = arDrone.createClient();

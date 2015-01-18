@@ -4,21 +4,21 @@ This program, requires client for controlling Parrot AR Drone 2.0, which can be 
 
 To run, just set up the Myo armband and calibrate it for your profile, then run armband.js.
 
-Keys:
-ctrl + 'c' : exits the program
-'l' : lands the drone
-'d' : disables emergency
+<h2>Keys:</h2>
+<p>ctrl + 'c' : exits the program</p>
+<p>'l' : lands the drone</p>
+<p>'d' : disables emergency</p>
 
-Gestures:
-Double Tap (if locked) : unlock
-Fist : takeoff
-Double Tap (if drone is flying) : land
-Fingers Spread : reset zero position
+<h2>Gestures:</h2>
+<p>Double Tap (if locked) : unlock</p>
+<p>Fist : takeoff</p>
+<p>Double Tap (if drone is flying) : land</p>
+<p>Fingers Spread : reset zero position</p>
 
-Movements:
-Move Up/Down : Drone moves up/down
-Twist Left/Right : Drone moves left/right
-Move Hand Left : Drone moves back
-Move Hand Right : Drone moves forward
+<h2>Movements:</h2>
+<p>Move Up/Down : Drone moves up/down</p>
+<p>Twist Left/Right : Drone moves left/right</p>
+<p>Move Hand Left : Drone moves back</p>
+<p>Move Hand Right : Drone moves forward</p>
 https://www.youtube.com/watch?v=AvAdgFt22ms
 
