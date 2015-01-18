@@ -23,3 +23,4 @@ To run, just set up the Myo armband and calibrate it for your profile, then run 
 <p>Move Hand Right : Drone moves forward</p>
 https://www.youtube.com/watch?v=AvAdgFt22ms
 
+See my other projects at: http://www.aboutamro.com/
